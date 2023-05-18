@@ -1,10 +1,10 @@
 {
-"Title": "☆ ssvsvsvsvsvs",
-"Description": "سلام دوست عsvvvvvvvvvvvvvvv و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "💢 شروع مجدد اختلالات شبکه ای",
+"Description": "- بخاطر پیشگری از قطعی شما دوستان عزیز ،اشخاصی در این اختلال ها یکسری از پروکسی و فیلترشکن های پرسرعت را در کانال زیر برای شما قرار دادند ، به سرعت عضو شین 😍❤️",
+"Link": "tg://join?invite=tHQefric9XxhYTJk",
+"ColorWave": "#FF9100",
+"Color": "#FF8F00",
+"ColorWaveTwo": "#E65100",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  دریافت نسخه جدید  ",
-"ButtonCancell": " بعدا ",
-"Closure": "false",
+"Button": " عضویت و دریافت فوری ",
+"ButtonCancell": " نمیخوام :/ ",
+"Closure": "true",
 "Show": "on"
 }
