@@ -1,24 +1,24 @@
 {
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=X-XdtlImdmllZjE0",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
+"Title": "❌   گروه رفع مشکلات فیلترشکن   ❌",
+"Description": "سلام عزیزم ، اگه فیلترشکنت وصل نمیشه یا سوال داری ، یا بهترین فیلترشکن و بهترین تنظیمات و میخوای یا هر سوال دیگه راجب فیلترشکن ، فورا عضو گروه رفع اشکال بشو 👇🏻",
+"Link": "tg://join?invite=2eHRAR5WQnY2OTI0",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "right",
+"MessageGravity": "center",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "9910003711",
+"Cancellable": "false",
+"MessageID": "01929338840",
 "ShowTime": "3",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " میخرم ",
+"Button": " عضویت اجباری ",
+"ButtonCancell": " ",
 "Closure": "true",
 "Show": "on"
 }
