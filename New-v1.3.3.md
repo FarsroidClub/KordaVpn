@@ -1,10 +1,10 @@
 {
-"Title": "اگه نمیخوای حمالی کنی عضو شو 😎",
-"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی👇🏻(بخاطر درخواست شما مجدد لینک گرفتیم)",
-"Link": "tg://join?invite=JdEYxh4guiY0YTY0",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
+"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
+"Link": "tg://join?invite=Z_OHqZDigo1kMWVk",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "01199920013800",
-"ShowTime": "4",
-"Button": "  عضویت اجباری در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"MessageID": "0111028372",
+"ShowTime": "2",
+"Button": " عضویت فوری ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
