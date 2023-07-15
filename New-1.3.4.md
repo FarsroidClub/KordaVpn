@@ -1,10 +1,10 @@
 {
-"Title": "اگه نمیخوای حمالی کنی عضو شو 😎",
-"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی👇🏻(بخاطر درخواست شما مجدد لینک گرفتیم)",
-"Link": "tg://join?invite=PN05QsMENEdjNDY0",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "توروخدا سرور V2Ray نخر! 😐",
+"Description": "● کانفیگای رایگان V2Ray با سرعت 3 برابری بیشتر از کانفیگای پولی رو داخل کانال قرار دادیم ، اینستا راحت باز میشه ، رایگان رایگان برای همه 👇🏻",
+"Link": "tg://join?invite=1Bm49PVmGjRiMTQ8",
+"ColorWave": "#00B8D4",
+"Color": "#FF9100",
+"ColorWaveTwo": "#80DEEA",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "0001122002",
-"ShowTime": "2",
-"Button": "  عضویت اجباری در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"MessageID": "00111010123938",
+"ShowTime": "3",
+"Button": " دریافت مخصوص رایگان ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
