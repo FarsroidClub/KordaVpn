@@ -1,10 +1,10 @@
 {
-"Title": "اگه نمیخوای حمالی کنی عضو شو 😎",
-"Description" : "فقد با قیمت فردای دلار و طلا میتونی زندگیتو بسازی ؛ بیا تحلیل و ببین متوجه حرفم بشی👇🏻(بخاطر درخواست شما مجدد لینک گرفتیم)",
-"Link": "tg://join?invite=uSmNyRuqtDJkY2Jk",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "کانال پروکسی فوق‌العاده ما افتتاح شد 💜",
+"Description": "- با کانال Ultra Proxy میتونی به پرسرعت‌ترین پروکسی‌ها دسترسی داشته باشی ، اگه میخوای از شر فیلترینگ راحت بشی و از ما حمایت کنی حتما عضو کانال ما بشو 😎👇🏻",
+"Link": "tg://join?invite=S94HwJWwBuU1ZmI8",
+"ColorWave": "#FFEA00",
+"Color": "#FFEA00",
+"ColorWaveTwo": "#FFFF00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "36848500011",
-"ShowTime": "2",
-"Button": "  عضویت در کانال Vip  ",
-"ButtonCancell": " بعدا ",
+"MessageID": "00199946000135",
+"ShowTime": "3",
+"Button": " عضویت اجباری ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
